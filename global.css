@@ -11,8 +11,13 @@ body{
   align-items: center;
   min-height: 100dvh;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  flex-direction: column;
 }
 h1 {
   font-size: 3.5rem;
   padding: 15px 25px;
+}
+
+a{
+  color: white;
 }
